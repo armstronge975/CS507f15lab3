@@ -1,4 +1,6 @@
-// first file in repo
+System.out.println("Hey Emily :)");// first file in repo
+// Cislo was first in the file
+// Mike killed his mogul. LOL
 
 public class Hello {
 
